@@ -1,0 +1,88 @@
+/* Estilos de encabezado portada*/
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.bg-light {
+    background-color: #591254!important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    margin: auto;
+}
+/*Fin de estilos de encabezado portada*/
+
+/* Logo Portada */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-top: 16%;
+}
+/*Fin de Logo Portada*/
+
+/* boton Portada */
+.btn-primary {
+    color: #000000;
+    background-color: #32C000;
+    border-color: #0d6efd;
+    height: 100%;
+    width: 190px;
+    border-radius: 20px;
+    margin-left: -20%;
+}
+/* fin de boton Portada */
+
+/* Subtitulos de pantallas*/
+h3.subtitulo {
+    margin-left: -130px;
+    margin-top: 35px;
+}
+/* Fin de subtitulos de pantallas*/
+
+
+/* Logo postulados y votantes*/
+img.img-fluid_postulados {
+    width: 35%;
+    margin-left: 58%;
+    height: 35%;
+    margin-top: -35%;
+}
+
+img.img-fluid_votantes {
+    width: 35%;
+    margin-left: 7.5%;
+    margin-top: -.5%;
+    height: 35%;
+}
+
+/* Fin de Logo postulados y votantes*/
+
+
+/* Diseño de formulario*/
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+label.form-label2 {
+    margin-left: 45%;
+}
+
+
+input#nameId {
+    margin-top: -45px;
+    margin-left: 145px;
+}
+
+input#matricula {
+    margin-left: 80%;
+    margin-top: -4%;
+}
+/* Fin del diseño de formulario*/
