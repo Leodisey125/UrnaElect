@@ -27,7 +27,15 @@
         @yield('contenido')
    </div>
    <!-- Fin del contenido -->
-   
+   <body class="d-flex flex-column">
+    <div id="page-content">
+      
+    <footer id="sticky-footer" class="flex-shrink-0 py-4 bg-dark text-white-50">
+      <div class="container text-center">
+        <small>Copyright &copy; Your Website</small>
+      </div>
+    </footer>
+  </body>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
