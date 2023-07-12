@@ -7,7 +7,7 @@
     <div class="container-fluid">
         <a class="navbar-brand" href="{{route('pantalla.opciones_registro')}}">
             <div class="d-grid gap-2 col-6 mx-auto">
-                <h3 class="subtitulo"> Ingrese los datos del votante </h3>
+                <h3 class="subtitulo"> Ingrese los datos del votant </h3>
             </div>
         </a>
     </div>
