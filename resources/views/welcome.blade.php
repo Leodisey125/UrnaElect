@@ -17,7 +17,7 @@
     <div class="container-fluid">
         <a class="navbar-brand" href="{{route('pantalla.opciones_registro')}}">
             <div class="d-grid gap-2 col-6 mx-auto">
-                <button class="btn btn-primary" type="button">Iniciar</button>
+                <button class="btn btn-primary" type="button">Inici</button>
             </div>
         </a>
     </div>
